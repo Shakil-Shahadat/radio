@@ -11,3 +11,4 @@ Can be played in PC or smart phones.
 1. Radio Foorti
 1. Radio GoonGoon
 1. Radio Sarabela
+1. Peoples Radio
