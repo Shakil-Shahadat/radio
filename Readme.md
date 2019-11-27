@@ -17,4 +17,4 @@ Can be played in PC or smart phones.
 1. Radio Munna
 1. Radio Sarabela
 1. Radio Shongi
-1. Peoples Radio
+1. [Peoples Radio](http://www.peoplesradio.fm/)
