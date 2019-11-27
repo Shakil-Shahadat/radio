@@ -9,7 +9,7 @@ Can be played in PC or smart phones.
 1. Bangla Wadio
 1. [Bangladesh Betar](http://www.betar.gov.bd/)
 1. Radio Bhumi
-1. Colours FM
+1. [Colours FM](http://colours.fm/)
 1. [Radio Dhaka](http://dhakafm904.com/)
 1. [Radio Dhoni](http://radiodhoni.fm/)
 1. [Radio Foorti](https://www.radiofoorti.fm/)
