@@ -15,6 +15,6 @@ Can be played in PC or smart phones.
 1. [Radio Foorti](https://www.radiofoorti.fm/)
 1. [Radio GoonGoon](https://radiogoongoon.com/)
 1. [Radio Munna](http://radiomunnabd.com/)
-1. Radio Sarabela
+1. [Radio Sarabela](http://radiosarabela.fm/)
 1. Radio Shongi
 1. [Peoples Radio](http://www.peoplesradio.fm/)
