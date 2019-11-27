@@ -8,3 +8,4 @@ Can be played in PC or smart phones.
 1. [Bangladesh Betar](http://www.betar.gov.bd/)
 1. Radio Bhumi
 1. Colours FM
+1. Radio Foorti
