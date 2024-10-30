@@ -1,6 +1,6 @@
 # Bangladeshi online radio playlist
 
-Can be played in PC or smart phones.
+Can be played on PC or smartphones.
 
 ## List of Stations
 
