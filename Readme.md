@@ -5,7 +5,6 @@ Can be played on PC or smartphones.
 ## List of Stations
 
 1. [Bangladesh Betar](http://www.betar.gov.bd/)
-1. [Radio Foorti](https://www.radiofoorti.fm/)
 1. [Radio GoonGoon](https://radiogoongoon.com/)
 1. [Radio Munna](http://radiomunnabd.com/)
 1. [Radio Sarabela](http://radiosarabela.fm/)
